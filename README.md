@@ -23,3 +23,12 @@ const { capitalizeFirstLetter, capitalizeFirstLetterOfEveryWord } = require("no-
 ## Why no-cap-capitalization?
 
 no-cap-capitalization makes it easy to uppercase your strings in JavaScript
+
+## Usage
+
+
+Examples:
+```js
+capitalizeFirstLetter("paul is awesome") // returns "Paul is awesome"
+capitalizeFirstLetterOfEveryWord("paul is awesome") // returns "Paul Is Awesome"
+```
