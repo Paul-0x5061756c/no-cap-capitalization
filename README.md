@@ -17,6 +17,7 @@ In Node.js:
 ```js
 // Load the full build.
 const { capitalizeFirstLetter, capitalizeFirstLetterOfEveryWord } = require("no-cap-capitalization")
+```
 
 
 ## Why no-cap-capitalization?
