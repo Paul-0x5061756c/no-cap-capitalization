@@ -1,7 +1,7 @@
 # no-cap-capitalization
 
 [Creator](https://github.com/Pauldb-Levarne) |
-[Source](https://lodash.com/docs)
+[SourceCode](https://github.com/Pauldb-Levarne/no-cap-capitalization)
 
 ## Installation
 
