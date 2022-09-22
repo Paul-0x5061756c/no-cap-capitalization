@@ -1,5 +1,10 @@
 # no-cap-capitalization
 
+[![NPM version][npm-version-image]][npm-url]
+[![NPM downloads][npm-downloads-image]][npm-downloads-url]
+[![MIT License][license-image]][license-url]
+
+
 [Creator](https://github.com/Pauldb-Levarne) |
 [SourceCode](https://github.com/Pauldb-Levarne/no-cap-capitalization)
 
@@ -32,3 +37,19 @@ Examples:
 capitalizeFirstLetter("paul is awesome") // returns "Paul is awesome"
 capitalizeFirstLetterOfEveryWord("paul is awesome") // returns "Paul Is Awesome"
 ```
+
+[npm-url]: https://www.npmjs.com/package/no-cap-capitalization
+[npm-version-image]: https://img.shields.io/npm/v/no-cap-capitalization.svg?style=flat
+
+[npm-downloads-image]: https://img.shields.io/npm/dm/no-cap-capitalization.svg?style=flat
+[npm-downloads-url]: https://npmcharts.com/compare/no-cap-capitalization?minimal=true
+
+
+[license-image]: https://img.shields.io/badge/license-ICS-blue.svg?style=flat
+[license-url]: LICENSE
+
+[npm-url]: https://npmjs.org/package/no-cap-capitalization
+[npm-version-image]: https://img.shields.io/npm/v/no-cap-capitalization.svg?style=flat
+
+[npm-downloads-image]: https://img.shields.io/npm/dm/no-cap-capitalization.svg?style=flat
+[npm-downloads-url]: https://npmcharts.com/compare/no-cap-capitalization?minimal=true
