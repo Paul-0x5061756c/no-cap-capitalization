@@ -5,15 +5,15 @@
 [![MIT License][license-image]][license-url]
 
 
-[Creator](https://github.com/Pauldb-Levarne) |
-[SourceCode](https://github.com/Pauldb-Levarne/no-cap-capitalization)
+[Creator](https://github.com/Paul-0x5061756c) |
+[SourceCode](https://github.com/Paul-0x5061756c/no-cap-capitalization)
 
 ## Installation
 
 
 Using npm:
 ```shell
-$ npm i -g npm
+$ npm i -g no-cap-capitalization
 $ npm i no-cap-capitalization
 ```
 Note: add `--save` if you are using npm < 5.0.0
