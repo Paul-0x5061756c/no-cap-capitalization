@@ -6,6 +6,9 @@ function capitalizeFirstLetter(string, locale = "en") {
 };
 
 function capitalizeFirstLetterOfEveryWord(string, locale = "en"){
+  if(typeof string !== 'string' && !(string instanceof String)) {
+    throw "input should be a string";
+  }
   return string.split(" ").map(word => capitalizeFirstLetter(word, locale)).join(" ")
 }
 
